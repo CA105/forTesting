@@ -14,6 +14,10 @@ public class TEST {
 
 		System.out.println("Hello Nina");
 		System.out.println("·F±¼§A");
+		
+		
+		System.out.println("123124978785454613132132132¯ä¯ä");
+		
 
 	}
 
