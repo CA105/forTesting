@@ -6,9 +6,14 @@ public class TEST {
 		System.out.println("123123123");
 		System.out.println("1233");
 		System.out.println("peipei");
+
 		
 		System.out.println("hi~~~~~~~~~~~~~~~~~大家來玩耍XD");
 		System.out.println("sevrlet開始，sevrlet結束。");
+
+
+		System.out.println("Hello Nina");
+
 	}
 
 }
