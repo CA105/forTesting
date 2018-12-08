@@ -8,7 +8,7 @@ public class TEST {
 		System.out.println("peipei");
 
 		System.out.println("Hello Nina");
-		System.out.println("為什麼要排擠role1");
+		System.out.println("幹掉你");
 
 	}
 
