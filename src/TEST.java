@@ -10,7 +10,7 @@ public class TEST {
 		
 		System.out.println("hi~~~~~~~~~~~~~~~~~大家來玩耍XD");
 		System.out.println("sevrlet開始，sevrlet結束。");
-
+		System.out.println("sevrlet開始，sevrlet結束。222222222222222222");
 
 		System.out.println("Hello Nina");
 		System.out.println("幹掉你");
