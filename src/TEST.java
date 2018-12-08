@@ -13,6 +13,7 @@ public class TEST {
 
 
 		System.out.println("Hello Nina");
+		System.out.println("·F±¼§A");
 
 	}
 
