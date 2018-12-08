@@ -13,7 +13,7 @@ public class TEST {
 		System.out.println("sevrlet開始，sevrlet結束。222222222222222222");
 
 		System.out.println("Hello Nina");
-		System.out.println("幹掉你");
+		System.out.println("wesleyeeeee");
 
 	}
 
