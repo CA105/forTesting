@@ -13,7 +13,7 @@ public class TEST {
 		System.out.println("sevrlet¶}©l¡Asevrletµ²§ô¡C222222222222222222");
 
 		System.out.println("Hello Nina");
-		System.out.println("wesleyeeeee");
+		System.out.println("wesl");
 
 	}
 
