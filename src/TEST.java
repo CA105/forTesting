@@ -15,6 +15,8 @@ public class TEST {
 		System.out.println("Hello Nina");
 
 	    System.out.println("²Ä¤@ª©");
+        
+        System.out.println("Bearhuang");
 
 		
 		
