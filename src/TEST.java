@@ -14,7 +14,7 @@ public class TEST {
 
 		System.out.println("Hello Nina");
 
-		System.out.println("wesl");
+	    System.out.println("²Ä¤@ª©");
 
 		
 		
